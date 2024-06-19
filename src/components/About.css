@@ -11,6 +11,9 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr);
 }
+.about .container img {
+    width: 700px;
+}
 
 .about h2 {
     font-size: 3rem;
@@ -36,6 +39,7 @@
 
 .about button {
     margin-top: 1rem;
+    font-family: italic;
 }
 
 @media screen and (max-width:940px) {

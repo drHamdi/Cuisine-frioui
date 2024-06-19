@@ -42,15 +42,15 @@ a {
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
-  background-color: var(--primary-color);
-  border: 1px solid var(--primary-color);
+  background-color: #978D58;
+  border: 1px solid #978D58;
   border-radius: 4px;
   cursor: pointer;
 }
 
 .button:hover {
-  background: var(--primary-dark);
-  border: 1px solid var(--primary-dark);
+  background-color: #0B5269;
+    border: 1px solid wheat;
 }
 
 .line {
